@@ -1,6 +1,6 @@
 #Classe para calcular o dano
-import RPG.Actors.enemy as enemy
+import Actors.enemy as enemy
 
-class Damage(enemy):
+class Damage():
     
     
