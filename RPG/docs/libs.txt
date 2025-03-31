@@ -1,0 +1,7 @@
+Bibliotecas usadas:
+
+-> Pygame;
+-> Numpy;
+-> Tkinter;
+-> SQLAlchemy;
+-> Pandas;
